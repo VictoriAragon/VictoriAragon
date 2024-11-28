@@ -1,4 +1,4 @@
-## Hi there, My name is Victoria Aragon 👋
+:milky_way:  :earth_americas:  :us:  Victoria Aragon 👋
 
 **Environmental Scientist and GIS Specialist** 
 
