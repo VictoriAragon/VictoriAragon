@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, My name is Victoria Aragon 👋
+
+**Environmental Scientist and GIS Specialist** 
+
+I am a Science and Research GIS Specialist with over 5 years of professional experience in my field. I earned my B.S. in Biology and a M.Sc. in Environmental Science and Natural Resource Management from New Mexico Highlands University (NMHU). I completed my Geographic Information Systems (GIS) certificate in December 2018, and have continued my education at the University of Colorado Boulder by taking the Earth Data Analytics Professional Data Science Bootcamp to further my knowledge with GIS technology and techniques using Python implemented with AI. Within my professional career I havecontinued to utilize my research and GIS skills towards environmental projects for major government contracts including the EPA, CPRA, USACE, BLM and the USDA. I have also worked as the GIS lead on a private contract with The Bill and Melinda Gates Foundation.
+
 
 <!--
 **VictoriAragon/VictoriAragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
