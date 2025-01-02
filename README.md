@@ -1,4 +1,5 @@
-![Victoria 1](https://github.com/user-attachments/assets/e89defa8-a5d5-4e3f-b9b3-d818cb426764)
+
+
 
 :milky_way:  :earth_americas:  :us:  Victoria Aragon 👋
 
@@ -21,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Victoria 1](https://github.com/user-attachments/assets/e89defa8-a5d5-4e3f-b9b3-d818cb426764)
+
 
 
 ![snake gif](https://github.com/VictoriAragon/VictoriAragon/blob/output/github-snake-dark.svg)
