@@ -1,4 +1,4 @@
-![GIT5TH](https://github.com/user-attachments/assets/0c1053aa-7396-476a-bad1-c37febb2f418)
+![git5thsmall](https://github.com/user-attachments/assets/c341d822-0e9b-4915-a9f9-643212d52cc0)
 
 
 :milky_way:  :earth_americas:  :us:  Victoria Aragon 👋
