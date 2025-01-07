@@ -1,6 +1,8 @@
 ![FGRHYE56343ongis](https://github.com/user-attachments/assets/84f16caf-1c6f-45e3-a228-bd2cf268f1f6)
 
-<h1 style="color: red;">STOPPPPP!! MY PROFILE IS UNDER CONSTRUCTION</h1> 
+<div align="center">
+<h1 style="color: RED;">STOPPPPP!! MY PROFILE IS UNDER CONSTRUCTION</h1> 
+</div>
 
 :milky_way:  :earth_americas:  :us:  Victoria Aragon 👋
 
